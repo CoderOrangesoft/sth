@@ -7,7 +7,7 @@ print("OrangeBounce version",version,"by Orangesoft")
 print("新版本下载地址: coderorangesoft.github.io/d")
 print("本代码开源 并基于GPL3.0协议")
 #在这里输入密码
-password = "liaoyongan"
+password = ""
 
 #0为防守,1为攻击,2为随机,3为蹲守
 if ((password[8] == "a") and (password[9] == "n")):
